@@ -65,8 +65,7 @@ public class ShopRepository {
         return null;
     }
 
-    public void addToArray(int i) {
-    }
+
 
 }
 
